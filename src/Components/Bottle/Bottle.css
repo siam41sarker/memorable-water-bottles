@@ -1,0 +1,15 @@
+.bottle-container{
+    border:2px solid seagreen;
+    padding:10px;
+    border-radius: 15px;
+}
+.bottle-container img{
+    width:200px
+}
+.btn-purchase{
+    background-color: black;
+    color:white;
+}
+.btn-disabled{
+    background-color: #ddd;
+}
